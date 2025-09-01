@@ -28,7 +28,11 @@ Vous êtes prêt alors à découvrir, tester puis créer des instructions SQL d'
 
 Afin de stocker durablement votre travail, il faudra valider les changements dans votre répertoire sur GitHub.
 
-- DansVSCode, aller dans l'onglet Git,
+- Dans votre dépôt dans VSCode,
+- Créer un fichier repones.sql
+- Copier-coller les instructions proposées pourchaque requête à réaliser.
+- Enregistrer le fichier
+- Aller dans l'onglet Git,
 - Ajouter les changements dans la version à enregistrer
 - Saisir un message : réponses jusqu'à la question ...
 - Cliquer sur Commit
