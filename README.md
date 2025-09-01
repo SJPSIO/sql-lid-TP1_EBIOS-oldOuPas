@@ -24,4 +24,16 @@ L'application devrait s'ouvrir dans un navigateur web, à une url semblable à c
 
 Vous êtes prêt alors à découvrir, tester puis créer des instructions SQL d'interrogation.
 
+## Enregistrement du travail dans Classroom pour le professeur
+
+Afin de stocker durablement votre travail, il faudra valider les changements dans votre répertoire sur GitHub.
+
+- DansVSCode, aller dans l'onglet Git,
+- Ajouter les changements dans la version à enregistrer
+- Saisir un message : réponses jusqu'à la question ...
+- Cliquer sur Commit
+- cliquer sur push / synchroniser les changements.
+
+Ceci permettra aussi à votre votre professeur de visualiser votre progression.
+
 Bon TP.
