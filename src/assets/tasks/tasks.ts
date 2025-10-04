@@ -109,7 +109,7 @@ export const tasksList: Task[] = [
     topic: "orderBy",
     database: "ebios",
     referenceSql:
-      ",,,,",
+      "SELECT code, support, description FROM scenario ORDER BY support ASC, description DESC;",
     tables: ["scenario"],
   },
   // order by en autonomie
